@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  height: 480px;
+  width: 480px;
+  margin: 20px;
+  padding: 10px;
+  line-height: 0px;
+  background-color: grey;
+}
+
+.square {
+  height: 29px;
+  width: 29px;
+  margin: 1px 0px 0px 1px;
+  border-width: 0px;
+  background-color: white;
+  display: inline-block;
+}
+
+button {
+  margin: 10px;
+}
